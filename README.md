@@ -7,9 +7,9 @@ if(a>0)
 {
 printf("pos");
 }
-else{
+else
 printf("pos");
-}
+
 }
 printf("zero");
 }
